@@ -1,0 +1,14 @@
+.hidden{
+    display: none;
+}
+
+body{
+    background-size: cover;
+    color: rgb(30, 255, 0);
+    text-align: center;
+
+}
+
+#todo-list{
+    list-style: none;
+}
